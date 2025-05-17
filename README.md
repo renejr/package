@@ -196,4 +196,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contact
 For questions or support, open an issue on the GitHub repository or contact the maintainer at your-email@example.com.
 
-Built with ❤️ by [Your Name]
+Built with ❤️ by [Rene Ballesteros Machado Junior - MDXHQ]
