@@ -4,6 +4,11 @@ __pycache__/
 # Ignore specified directories
 ext/
 messages/
+account/
+activities/
+activity/
+programs/
+servers
 
 # Ignore machine ID file
 .machine_id
