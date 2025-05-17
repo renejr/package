@@ -1,0 +1,12 @@
+# Ignore Python cache directories
+__pycache__/
+
+# Ignore specified directories
+ext/
+messages/
+
+# Ignore machine ID file
+.machine_id
+
+# Ignore SQLite database files
+*.db
