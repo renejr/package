@@ -194,6 +194,6 @@ Please include tests and update documentation as needed.
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 Contact
-For questions or support, open an issue on the GitHub repository or contact the maintainer at your-email@example.com.
+For questions or support, open an issue on the GitHub repository or contact the maintainer at renebmjr@gmail.com.
 
 Built with ❤️ by [Rene Ballesteros Machado Junior - MDXHQ]
