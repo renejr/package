@@ -20,7 +20,7 @@ Installation
 Follow these steps to set up the project:
 1. Clone the Repository
 Clone the repository to your local machine using Git:
-git clone https://github.com/your-username/chatexport.git
+git clone https://github.com/renejr/package.git
 cd chatexport
 
 Replace your-username with your GitHub username or the correct repository URL.
